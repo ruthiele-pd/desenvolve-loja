@@ -18,21 +18,13 @@ Além disso, o projeto foi estruturado com base em boas práticas de organizaç�
 ### 🛒 Carrinho de compras
 
 * Adição de produtos
-
 * Controle de quantidade
-
 * Remoção parcial ou total
-
 * Limpeza completa do carrinho
-
 * 💰 Cálculo automático do total
-
 * 💾 Persistência com `localStorage`
-
 * 🌙 Modo escuro (Dark Mode)
-
 * 🔄 Feedback de carregamento e tratamento de erros
-
 * 🎨 Interface responsiva e organizada
 
 ---
@@ -49,7 +41,9 @@ Além disso, o projeto foi estruturado com base em boas práticas de organizaç�
 ---
 
 ## 📦 API Utilizada
+
 Os produtos são consumidos da API:
+
 **Fake Store API**
 https://fakestoreapi.com/
 
@@ -58,28 +52,40 @@ https://fakestoreapi.com/
 ## ▶️ Como rodar o projeto
 
 ### 1. Clone o repositório
-bash
+
+```bash
 git clone https://github.com/ruthiele-pd/desenvolve-loja
+```
 
 ### 2. Acesse a pasta do projeto
-bash
+
+```bash
 cd desenvolve-loja
+```
 
 ### 3. Instale as dependências
-bash
+
+```bash
 npm install
+```
 
 ### 4. Execute o projeto
-bash
+
+```bash
 npm run dev
+```
 
 ### 5. Acesse no navegador
+
+```
 http://localhost:5173
+```
 
 ---
 
 ## 📂 Estrutura do Projeto
 
+```
 src/
 ├── components/     # Componentes reutilizáveis (Header)
 ├── pages/          # Páginas principais (Home, Cart, ProductDetail)
@@ -88,6 +94,7 @@ src/
 ├── styles/         # Estilos globais (CSS)
 ├── App.jsx         # Rotas da aplicação
 ├── main.jsx        # Entrada do React
+```
 
 ---
 
@@ -110,8 +117,9 @@ src/
 ---
 
 ## 📧 Contato (Ruthiele Couto Rosa)
-* Email: ruthiele.rosa@pditabira.com.br
-* Whatsapp: +55 31 9141-2473
+
+* E-mail: ruthiele.rosa@pditabira.com.br
+* GitHub: github.com/ruthiele-pd
 
 ---
 
