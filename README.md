@@ -119,7 +119,7 @@ src/
 ## 📧 Contato (Ruthiele Couto Rosa)
 
 * E-mail: ruthiele.rosa@pditabira.com.br
-* GitHub: github.com/ruthiele-pd
+* GitHub: https://github.com/ruthiele-pd
 
 ---
 
